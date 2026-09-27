@@ -5,7 +5,7 @@ export const profile = {
   role: 'Backend Engineer',
   tagline: 'I build backends that stay up when traffic doesn’t calm down.',
   location: 'Bengaluru, India',
-  photo: '/ayush.webp',
+  photo: 'ayush.webp',
   email: 'thisisayush79@gmail.com',
   linkedin: 'https://www.linkedin.com/in/ayush-sharma-551133213/',
   medium: 'https://medium.com/@thisisayush79',
@@ -87,12 +87,12 @@ export const education = [
 
 // image: file in public/certs (optional). highlight: shown as a badge.
 export const certifications = [
-  { title: 'The Joy of Computing using Python', issuer: 'NPTEL · IIT Madras', date: 'Oct 2022', image: '/certs/nptel.webp', highlight: 'Elite · Top 2% · 91%', link: 'https://archive.nptel.ac.in/content/noc/NOC22/SEM2/Ecertificates/106/noc22-cs122/Course/NPTEL22CS122S6310003910032052.jpg' },
-  { title: 'Software Engineer', issuer: 'HackerRank', date: 'Jun 2024', image: '/certs/hr-swe.webp', link: 'https://www.hackerrank.com/certificates/aed79c1938c0' },
-  { title: 'Java (Basic)', issuer: 'HackerRank', date: 'Jun 2024', image: '/certs/hr-java.webp', link: 'https://www.hackerrank.com/certificates/751724671b82' },
-  { title: 'SQL (Basic)', issuer: 'HackerRank', date: 'Jun 2024', image: '/certs/hr-sql.webp', link: 'https://www.hackerrank.com/certificates/eebabc0f8991' },
+  { title: 'The Joy of Computing using Python', issuer: 'NPTEL · IIT Madras', date: 'Oct 2022', image: 'certs/nptel.webp', highlight: 'Elite · Top 2% · 91%', link: 'https://archive.nptel.ac.in/content/noc/NOC22/SEM2/Ecertificates/106/noc22-cs122/Course/NPTEL22CS122S6310003910032052.jpg' },
+  { title: 'Software Engineer', issuer: 'HackerRank', date: 'Jun 2024', image: 'certs/hr-swe.webp', link: 'https://www.hackerrank.com/certificates/aed79c1938c0' },
+  { title: 'Java (Basic)', issuer: 'HackerRank', date: 'Jun 2024', image: 'certs/hr-java.webp', link: 'https://www.hackerrank.com/certificates/751724671b82' },
+  { title: 'SQL (Basic)', issuer: 'HackerRank', date: 'Jun 2024', image: 'certs/hr-sql.webp', link: 'https://www.hackerrank.com/certificates/eebabc0f8991' },
   { title: 'TalentNext — Java Full Stack', issuer: 'Wipro', date: 'Oct 2023', link: 'https://cert.diceid.com/csr/cid/TpHPIk' },
-  { title: 'HTML, CSS, JavaScript, React', issuer: 'Udemy', date: 'Apr 2023', image: '/certs/udemy.webp', link: 'https://www.udemy.com/certificate/UC-0f4c1345-dea6-4b1e-aa51-89078f6ae8a2/' },
+  { title: 'HTML, CSS, JavaScript, React', issuer: 'Udemy', date: 'Apr 2023', image: 'certs/udemy.webp', link: 'https://www.udemy.com/certificate/UC-0f4c1345-dea6-4b1e-aa51-89078f6ae8a2/' },
   { title: 'React & Redux Certification', issuer: 'Complete Coding', date: 'Dec 2024', link: 'https://learn.completecoding.in/verify-certificate' },
   { title: 'JavaScript Certification', issuer: 'Complete Coding', date: 'Dec 2024', link: 'https://learn.completecoding.in/verify-certificate' },
 ]
